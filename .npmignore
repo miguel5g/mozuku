@@ -1,6 +1,7 @@
 /test
 /src
 /node_modules
+.editorconfig
 babel.config.js
 tsconfig.json
 yarn.lock

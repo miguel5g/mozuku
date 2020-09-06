@@ -1,7 +1,7 @@
 {
   "name": "mozuku",
   "description": "A simple and easy lightshot screen capture generator/validator.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "./dist/index.js",
   "license": "MIT",
   "author": {
